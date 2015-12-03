@@ -83,9 +83,8 @@ color: #aaa;
       <div class="inner">
 
         <header>
-  
           <h1>Radiogram</h1>
-          <h2>Yet Another Library for Radio Button - When Rapid Prototyping is Matter</h2>
+          <h2>Yet Another Radio Button - When Rapid Prototyping is Matter</h2>
         </header>
 
         <section id="downloads" class="clearfix">
@@ -107,7 +106,7 @@ color: #aaa;
 <div class="doxcy"><h3>by using CLASS as Selector</h3></div><br />
 <br />
 
-<div id="gander"><h3>by using CLASS as Selector</h3></div>
+<div id="gender"><h3>by using CLASS as Selector</h3></div>
 <script>
 obj =	{
 		name	: "form[fieldname][]", //RSForm RadioGroup - Input Button use to be in this form.
@@ -117,12 +116,12 @@ obj =	{
 					]
 		};
 
-//usage#1 Same OBJECT[Layout] but by using Id as a selector
+//usage#1 Same OBJECT[Layout] but by using selector as a class
 Radiogram.build('#doxcy',obj);
 
-//usage#2 Same OBJECT[Layout] but by using class as a selector 
+//usage#2 Same OBJECT[Layout] but by using selector as a class
 obj =	{
-		name	: "form[fieldname][]",
+		name	: "form[fieldname][]", //RSForm RadioGroup - Input Button use to be in this form.
 		layout	: [ '<div><i class="fa fa-cc-amex" style="color: #34C354;"></i><span></span></div>',
 					'<div><i class="fa fa-cc-mastercard" style="color: #f08216;"></i><span></span></div>',
 					'<div><i class="fa fa-cc-jcb" style="color: #8c8677;"></i><span></span></div>'
@@ -132,15 +131,15 @@ obj =	{
 Radiogram.build('.doxcy',obj); 
 
 
-//EXAMPLE2 Gender(male or female) condition radio button
+//EXAMPLE2 MALE/FEMALE Radio Group buttons
 obj =	{
-		name	: "form[fieldname2][]",
+		name	: "form[fieldname2][]", //RSForm RadioGroup - Input Button use to be in this form.
 		layout	: [ '<div><i class="icon-user icons" style="color: #ec482e;"></i><span>Male</span></div>',
 					'<div><i class="icon-user-female icons" style="color: #16abf0;"></i><span>Female</span></div>',
 					'<div><i class="icon-people icons" style="color: #f3d709;"></i><span>Others</span></div>'
 					]
 		};
-Radiogram.build('#gander',obj); 
+Radiogram.build('#gender',obj); 
 </script>
 
 <br />
