@@ -3,7 +3,7 @@ Yet Another Radio Button - When Rapid Prototyping is Matter.
 
 ```javascript
 obj =	{
-		name	: "form[fieldname][]", //RSForm RadioGroup - Input Button use to be in this form.
+		name	: "form[fieldname][]", //Use any traditional element nave whether array or simple variable.
 		layout	: [ '<div><i class="fa fa-cc-paypal" style="color: #075884;"></i><span></span></div>',
 					'<div><i class="fa fa-cc-stripe" style="color: #16abf0;"></i><span></span></div>',
 					'<div><i class="fa fa-cc-visa" style="color: #f3d709;"></i><span></span></div>'
