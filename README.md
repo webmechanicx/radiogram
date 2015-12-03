@@ -1,5 +1,5 @@
 # radiogram
-Yet Another Radio Button - When Rapid Prototyping is Matter.
+Yet Another Radio Button - When Rapid Prototype is Matter.
 
 ```javascript
 obj = {
