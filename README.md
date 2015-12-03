@@ -24,7 +24,8 @@ obj = {
 		
 Radiogram.build('.doxcy',obj); 
 ```
-#EXAMPLE2 MALE/FEMALE Radio Group buttons
+###EXAMPLE2: Gender(male or female) Selection
+[logo]: http://www.bestadvice.co.uk/wp-content/uploads/2012/06/men-women-gender.jpg "Gender Icon"
 
 ```javascript
 //EXAMPLE2 MALE/FEMALE Radio Group buttons
@@ -36,7 +37,7 @@ obj =	{
 		  ]
 	};
 
-Radiogram.build('#gander',obj);
+Radiogram.build('#gender',obj);
 ```
 
 
