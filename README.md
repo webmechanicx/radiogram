@@ -10,12 +10,12 @@ obj = {
 		  ]
 	};
 
-//usage#1 Same OBJECT[Layout] but by using selector as a class
+//usage#1 Same OBJECT[Layout] but by using Id as a selector 
 Radiogram.build('#doxcy',obj);
 
-//usage#2 Same OBJECT[Layout] but by using selector as a class
+//usage#2 Same OBJECT[Layout] but by using class as a selector
 obj = {
-	name	: "form[fieldname][]", //RSForm RadioGroup - Input Button use to be in this form.
+	name	: "form[fieldname][]", //Use any traditional element nave whether array or simple variable.
 	layout	: [ '<div><i class="fa fa-cc-amex" style="color: #34C354;"></i><span></span></div>',
 	            '<div><i class="fa fa-cc-mastercard" style="color: #f08216;"></i><span></span></div>',
 		    '<div><i class="fa fa-cc-jcb" style="color: #8c8677;"></i><span></span></div>'
@@ -23,11 +23,13 @@ obj = {
 	};
 		
 Radiogram.build('.doxcy',obj); 
+```
+#EXAMPLE2 MALE/FEMALE Radio Group buttons
 
-
+```javascript
 //EXAMPLE2 MALE/FEMALE Radio Group buttons
 obj =	{
-	name	: "form[fieldname2][]", //RSForm RadioGroup - Input Button use to be in this form.
+	name	: "form[fieldname2][]", //Use any traditional element nave whether array or simple variable.
 	layout	: ['<div><i class="icon-user icons" style="color: #ec482e;"></i><span>Male</span></div>',
 		   '<div><i class="icon-user-female icons" style="color: #16abf0;"></i><span>Female</span></div>',
 		   '<div><i class="icon-people icons" style="color: #f3d709;"></i><span>Others</span></div>'
