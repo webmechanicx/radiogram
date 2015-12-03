@@ -1,5 +1,5 @@
-# radiogram
-Yet Another Radio Button - When Rapid Prototype is Matter.
+![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "Logo Title Text 1")
+Yet Another Radio Button Utility - to expose conditional UI in many flavours as possible.
 
 ```javascript
 obj = {
