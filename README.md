@@ -11,9 +11,10 @@ obj = {
 		  ]
 	};
 ```
-###Usages: System initiates/Expose
+###Usages: How do you initiates/Expose
 
 case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very common style.
+
 case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be unique (if multipe instance).
 
 ##Some Real Life Examples and Easy to Expand for Many Cases.  
