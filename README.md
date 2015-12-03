@@ -25,7 +25,8 @@ obj = {
 Radiogram.build('.doxcy',obj); 
 ```
 ###EXAMPLE2: Gender(male or female) Selection
-[logo]: https://camo.githubusercontent.com/894509ba4f54751a8d60b229470c18053bcbf4bb/687474703a2f2f7777772e626573746164766963652e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f323031322f30362f6d656e2d776f6d656e2d67656e6465722e6a7067 "Gender Icon"
+
+![alt text](https://camo.githubusercontent.com/894509ba4f54751a8d60b229470c18053bcbf4bb/687474703a2f2f7777772e626573746164766963652e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f323031322f30362f6d656e2d776f6d656e2d67656e6465722e6a7067 "Logo Title Text 1")
 
 ```javascript
 //EXAMPLE2 MALE/FEMALE Radio Group buttons
