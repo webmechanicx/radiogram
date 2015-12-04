@@ -15,7 +15,7 @@
   var c,elm,len,str,ul,t=0,make__id=''; //@GLOBAL VARIABLES
     
   return {
-			build: function(selector,obj){					   
+			expose: function(selector,obj){					   
 						   elm = document.querySelector(selector);
 						   if(Radiogram.isObject(obj)){
 						   		var lenObj = Object.keys(obj).length;	
