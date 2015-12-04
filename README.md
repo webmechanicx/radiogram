@@ -26,8 +26,8 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 ![alt text](http://s18.postimg.org/cuyig7ko9/cross_browser_compatible.jpg "Radiogram - cross browser javascript library")
 
 
-###The MIT License (MIT)
-Copyright (c) <2015> <Farhadur Rahim - @webmechanicx>
+###The MIT License (<a href="http://opensource.org/licenses/mit-license">MIT</a>)
+Copyright (c) <2015> <Farhadur Rahim> <webmechanicx@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
