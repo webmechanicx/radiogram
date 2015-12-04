@@ -77,7 +77,7 @@
 					},
 					finalizer : function(attrName,chunk){
 								str = '',i=0;
-								t++; //tracking for multiple instance
+								t++; //tracker for multiple instance
 								make__id = '#radiogroup' + t;
 									ul 		= document.createElement("ul");
 									
@@ -92,6 +92,9 @@
 									i++;
 									li = document.createElement("li");
 									str = chunk[c].toString() + '<input id="radio' + t + i + '" type="radio" name="' + attrName + '"/>';
+									
+									// this method adopted from native IE and accepted by other browsers
+									// ref: https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML
 									li.insertAdjacentHTML("beforeend", str);
 								  	docfrag.appendChild(li);
 								}
