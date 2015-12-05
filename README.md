@@ -46,7 +46,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 #### in commonJS (e.g. nodeJS):
 
 ```javascript
-    var Radiogram = require('./Radiogram');
+    var Radiogram = require('./modules/Radiogram');
     Radiogram.expose(selector,obj);
 ```
 ####Browser globally (e.g. in HTML):
