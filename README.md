@@ -17,6 +17,32 @@ case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very commo
 
 case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be unique (***if multipe instance).
 
+
+### Supported Modularity with requireJS | commonJS | jQuery others soon
+
+    ####in AMD (e.g. with requireJS)
+
+    ```javascript
+    requirejs(['Radiogram'], function(Radiogram) {
+        Radiogram.expose(selector,obj)
+    });
+    ```
+
+     ####in commonJS (e.g. nodeJS):
+    
+    ```javascript
+    var Radiogram = require('./Radiogram');
+    Radiogram.expose(selector,obj);
+    ```
+     ####Browser globally (e.g. in HTML):
+    
+    ```javascript
+    <script src="Radiogram.js"></script>
+    <script>Radiogram.expose(selector,obj);</script>
+    ```
+
+
+
 ##Some Real Life Examples and Easy to Expand for Many Cases.  
 
 ![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "few real life examples")
