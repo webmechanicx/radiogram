@@ -4,12 +4,13 @@
 
 Radiogram is a very small UI library (2kb after mini) for native input radio button that designed and written in pure javascript. The only purpose to ~~Radiogram.~~expose a dead simple way to style 'Radio Button' ***in minimum affords***.
 
-Radiogram never interferes with other element and style in same page/document and doesn’t even conflict with other radio type’s element.  It generates new radio button on the fly based on your own given structure and style (Freedom always your).
+Radiogram never interferes with other element and style in same page/document and doesn’t even conflict with other radio type’s element.  It generates new radio button on the fly based on your own given structure and style ***(Freedom always your)***.
 
-What is happening then behind the scene – Just taking two parameters call ‘selector’ that must be unique and another parameter call ‘object’ or ‘obj or whatever’ in an object literal form. This object will contain two types of key – ‘name:’ where value is a string and ‘layout:’ where values are defined as an array of strings. Perhaps ‘Still Freedom is your’. 
-Draft an idea ‘(html-block and style)’, Initiate in ‘Radiogram’ to ‘expose’ the ‘World Wide Web’.
+What is happening then behind the scene – Just taking two parameters call `selector` that must be unique and another parameter call `object` or `obj or whatever` in an object literal form. This object will contain two types of key – `name:` where value is a string and `layout:` where values defined as an array of strings. Perhaps `Still Freedom is your`.
 
-Radiogram – Dynamically generates Radio button or conditional UI in many different flavours with minimum affords.
+Draft an idea `(html-block and style)`, Initiate with `Radiogram` and `expose` to ‘World Wide Web’.
+
+Radiogram – Dynamically generates Radio button or conditional UI in many different flavours with minimum affords and time duration.
 
 ```javascript
 obj = {
