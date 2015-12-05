@@ -1,5 +1,9 @@
 ![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "Logo Title Text 1")
 
+##For Live Action, Please visit the github page:
+
+###<a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
+
 ### Introduction
 
 Radiogram is a very small UI library (2kb after mini) that designed and written in pure javascript for auto styling native radio button. The only purpose to ~~Radiogram.~~expose a dead simple way to style 'Radio Button' ***in minimum affords***.
