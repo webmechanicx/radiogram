@@ -1,8 +1,12 @@
-![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "Radiogramjs official logo")
+![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "RadiogramJS official logo")
 
-### Introduction or why yet another JS library
+##For Live Action, Please visit the github page:
 
-Radiogram is a very small UI library (2kb after mini) for native input radio button that designed and written in pure javascript. The only purpose to ~~Radiogram.~~expose a dead simple way to style 'Radio Button' ***in minimum affords***.
+###<a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
+
+### Introduction
+
+Radiogram is a very small UI library (2kb after mini) that designed and written in pure javascript for auto styling native radio button. The only purpose to ~~Radiogram.~~***expose*** a dead simple way to style 'Radio Button' ***in minimum affords and time***.
 
 Radiogram never interferes with other element and style in same page/document and doesn’t even conflict with other radio type’s element.  It generates new radio button on the fly based on your own given structure and style ***(Freedom always your)***.
 
@@ -10,11 +14,11 @@ What is happening then behind the scene – Just taking two parameters call `sel
 
 Draft an idea `(html-block and style)`, Initiate with `Radiogram` and `expose` to `World Wide Web`.
 
-Radiogram – Dynamically generates Radio button or conditional UI in many different flavours with minimum affords and time duration.
 
 ```javascript
 obj = {
-	name	: "form[fieldname][]", //Use any traditional element nave whether array or simple variable.
+	//attach any valid name common for each radio input button e.g standard or array.
+	name	: "form[fieldname][]",
 	layout	: [ '<div><span>Radio Button-1</span></div>',
 		    '<div><span>Radio Button-2</span></div>',
 		    '<div><span>Radio Button-3</span></div>'
@@ -28,18 +32,29 @@ case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very commo
 case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be unique.
 
 
-### Supported Modularity with requireJS | commonJS | jQuery others soon
+### Comfortable with RequireJS | CommonJS | jQuery and others soon
+
+#### in AMD (e.g. with requireJS):
 
 ```javascript
     requirejs(['Radiogram'], function(Radiogram) {
         Radiogram.expose(selector,obj);
     });
-
-    var Radiogram = require('./Radiogram');
-    Radiogram.expose(selector,obj);
 ```
 
-###Some Real Life Examples and Easy to Shape and Style in many other Purpose!!! 
+#### in commonJS (e.g. nodeJS):
+
+```javascript
+    var Radiogram = require('./modules/Radiogram');
+    Radiogram.expose(selector,obj);
+```
+####Browser globally (e.g. in HTML):
+    
+```javascript
+   <script src="Radiogram.js"></script>
+   <script>Radiogram.expose(selector,obj);</script>
+```
+###Few Examples on Real Life!!! 
 
 ![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "radio button example")
 
