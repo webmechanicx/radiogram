@@ -14,7 +14,6 @@ What is happening then behind the scene – Just taking two parameters call `sel
 
 Draft an idea `(html-block and style)`, Initiate with `Radiogram` and `expose` to `World Wide Web`.
 
-Radiogram – Dynamically generates Radio button or conditional UI in many different flavours with minimum affords and time duration.
 
 ```javascript
 obj = {
