@@ -14,7 +14,7 @@ Radiogram – Dynamically generates Radio button or conditional UI in many diffe
 
 ```javascript
 obj = {
-	name	: "form[fieldname][]", //Use any traditional element nave whether array or simple variable.
+	name	: "form[fieldname][]", //attach any valid name for the input radio button whether array or simple variable.
 	layout	: [ '<div><span>Radio Button-1</span></div>',
 		    '<div><span>Radio Button-2</span></div>',
 		    '<div><span>Radio Button-3</span></div>'
