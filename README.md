@@ -1,6 +1,6 @@
 ![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "Logo Title Text 1")
 
-### Introduction or why yet another JS library
+### Introduction
 
 Radiogram is a very small UI library (2kb after mini) for native input radio button that designed and written in pure javascript. The only purpose to ~~Radiogram.~~expose a dead simple way to style 'Radio Button' ***in minimum affords***.
 
@@ -14,7 +14,8 @@ Radiogram – Dynamically generates Radio button or conditional UI in many diffe
 
 ```javascript
 obj = {
-	name	: "form[fieldname][]", //attach any valid name for the input radio button whether array or simple variable.
+	//attach any valid name common for each radio input button e.g standard or array.
+	name	: "form[fieldname][]",
 	layout	: [ '<div><span>Radio Button-1</span></div>',
 		    '<div><span>Radio Button-2</span></div>',
 		    '<div><span>Radio Button-3</span></div>'
