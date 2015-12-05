@@ -23,6 +23,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 
 
     ```javascript
+    
     requirejs(['Radiogram'], function(Radiogram) {
         Radiogram.expose(selector,obj)
     });
@@ -32,9 +33,11 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
     var Radiogram = require('./Radiogram');
     Radiogram.expose(selector,obj);
     ```
-     ####Browser globally (e.g. in HTML)
+    
+
     
     ```javascript
+    
     <script src="Radiogram.js"></script>
     <script>Radiogram.expose(selector,obj);</script>
     ```
