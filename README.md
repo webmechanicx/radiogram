@@ -30,13 +30,8 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 
     var Radiogram = require('./Radiogram');
     Radiogram.expose(selector,obj)
-    
-    <script src="Radiogram.js"></script>
-    <script>Radiogram.expose(selector,obj);</script>
-    
+  
     ```
-
-
 
 ##Some Real Life Examples and Easy to Expand for Many Cases.  
 
