@@ -5,9 +5,9 @@ Yet Another Radio Button Utility Written in Pure Javascript - to expose conditio
 ```javascript
 obj = {
 	name	: "form[fieldname][]", //Use any traditional element nave whether array or simple variable.
-	layout	: [ '<div><span>Layout-1</span></div>',
-		    '<div><span>Layout-2</span></div>',
-		    '<div><span>Layout-3</span></div>'
+	layout	: [ '<div><span>Radio Button-1</span></div>',
+		    '<div><span>Radio Button-2</span></div>',
+		    '<div><span>Radio Button-3</span></div>'
 		  ]
 	};
 ```
@@ -29,17 +29,21 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
     });
 
     var Radiogram = require('./Radiogram');
-    Radiogram.expose(selector,obj)
+    Radiogram.expose(selector,obj);
   
     ```
 
-##Some Real Life Examples and Easy to Expand for Many Cases.  
+###Some Real Life Examples and Easy to Shape and Style in many other Purpose!!! 
 
-![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "few real life examples")
+![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "radio button example")
 
 
 ###All Browser Supports:
 ![alt text](http://s18.postimg.org/cuyig7ko9/cross_browser_compatible.jpg "Radiogram - cross browser javascript library")
+
+###For Live Demo, Please visit the github page:
+
+<a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
 
 ###The MIT License (<a href="http://opensource.org/licenses/mit-license">MIT</a>)
