@@ -22,20 +22,19 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 
 
 
-    ```javascript
-    
+```javascript
     requirejs(['Radiogram'], function(Radiogram) {
         Radiogram.expose(selector,obj);
     });
 
     var Radiogram = require('./Radiogram');
     Radiogram.expose(selector,obj);
-  
-    ```
+```
 
 ###Some Real Life Examples and Easy to Shape and Style in many other Purpose!!! 
 
 ![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "radio button example")
+
 
 
 ###All Browser Supports:
