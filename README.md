@@ -1,6 +1,15 @@
 ![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "Logo Title Text 1")
 
-Yet Another Radio Button Utility Written in Pure Javascript - to expose conditional UI in many different flavours as possible.
+### Introduction or why yet another JS library
+
+Radiogram is a very small UI library (2kb after mini) for native input radio button that designed and written in pure javascript. The only purpose to ~~Radiogram.~~expose the dead simple way to style “Radio Button” in minimum affords.
+
+Radiogram never interferes with other element and style in same page/document and doesn’t even conflict with other radio type’s element.  It generates new radio button on the fly based on your own given structure and style (Freedom always your).
+
+What is happening then behind the scene – Just taking two parameters call ‘selector’ that must be unique and another parameter call ‘object’ or ‘obj or whatever’ in an object literal form. This object will contain two types of key – ‘name:’ where value is a string and ‘layout:’ where values are defined as an array of strings. Perhaps ‘Still Freedom is your’. 
+Draft an idea ‘(html-block and style)’, Initiate in ‘Radiogram’ to ‘expose’ the ‘World Wide Web’.
+
+Radiogram – Dynamically generates Radio button or conditional UI in many different flavours with minimum affords.
 
 ```javascript
 obj = {
@@ -19,8 +28,6 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 
 
 ### Supported Modularity with requireJS | commonJS | jQuery others soon
-
-
 
 ```javascript
     requirejs(['Radiogram'], function(Radiogram) {
