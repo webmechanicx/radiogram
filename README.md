@@ -8,7 +8,7 @@ Radiogram never interferes with other element and style in same page/document an
 
 What is happening then behind the scene – Just taking two parameters call `selector` that must be unique and another parameter call `object` or `obj or whatever` in an object literal form. This object will contain two types of key – `name:` where value is a string and `layout:` where values defined as an array of strings. Perhaps `Still Freedom is your`.
 
-Draft an idea `(html-block and style)`, Initiate with `Radiogram` and `expose` to ‘World Wide Web’.
+Draft an idea `(html-block and style)`, Initiate with `Radiogram` and `expose` to `World Wide Web`.
 
 Radiogram – Dynamically generates Radio button or conditional UI in many different flavours with minimum affords and time duration.
 
