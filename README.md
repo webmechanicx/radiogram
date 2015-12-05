@@ -25,21 +25,15 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
     ```javascript
     
     requirejs(['Radiogram'], function(Radiogram) {
-        Radiogram.expose(selector,obj)
+        Radiogram.expose(selector,obj);
     });
-    ```
-    
-    ```javascript
-    var Radiogram = require('./Radiogram');
-    Radiogram.expose(selector,obj);
-    ```
-    
 
-    
-    ```javascript
+    var Radiogram = require('./Radiogram');
+    Radiogram.expose(selector,obj)
     
     <script src="Radiogram.js"></script>
     <script>Radiogram.expose(selector,obj);</script>
+    
     ```
 
 
