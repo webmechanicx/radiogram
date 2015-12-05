@@ -33,7 +33,7 @@ case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very commo
 case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be unique.
 
 
-### Supported Modularity with requireJS | commonJS | jQuery others soon
+### Comfortable with RequireJS | CommonJS | jQuery and others soon
 
 #### in AMD (e.g. with requireJS):
 
