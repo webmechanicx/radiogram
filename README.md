@@ -1,4 +1,4 @@
-![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "Logo Title Text 1")
+![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "RadiogramJS official logo")
 
 ##For Live Action, Please visit the github page:
 
@@ -54,7 +54,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
    <script src="Radiogram.js"></script>
    <script>Radiogram.expose(selector,obj);</script>
 ```
-###Some Real Life Examples and Easy to Shape and Style in many other Purpose!!! 
+###Few Examples on Real Life!!! 
 
 ![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "radio button example")
 
