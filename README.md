@@ -31,15 +31,21 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 
 ### Supported Modularity with requireJS | commonJS | jQuery others soon
 
+#### in AMD (e.g. with requireJS):
+
 ```javascript
     requirejs(['Radiogram'], function(Radiogram) {
         Radiogram.expose(selector,obj);
     });
+```
 
+#### in commonJS (e.g. nodeJS):
+
+```javascript
     var Radiogram = require('./Radiogram');
     Radiogram.expose(selector,obj);
 ```
-Browser globally (e.g. in HTML):
+####Browser globally (e.g. in HTML):
     
 ```javascript
    <script src="Radiogram.js"></script>
