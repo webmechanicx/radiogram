@@ -8,7 +8,7 @@
 
 
 
-### Introduction
+## Introduction
 
 Radiogram is a very small UI library (2kb after mini) that designed and written in pure javascript for auto styling native radio button. The only purpose of ~~Radiogram.~~***expose*** a dead simple way to style `Radio Button` ***in minimum afford and time***.
 
@@ -29,14 +29,15 @@ obj = {
 		  ]
 	};
 ```
-###Usages: How do you initiate or expose
+
+##Usages: How do you initiate or expose
 
 case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very common practice.
 
 case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be unique.
 
 
-### Comfortable with RequireJS | CommonJS | jQuery and other soon!!!
+## Comfortable with RequireJS | CommonJS | jQuery and other soon!!!
 
 #### in AMD (e.g. with requireJS):
 
@@ -58,13 +59,13 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
    <script src="Radiogram.js"></script>
    <script>Radiogram.expose(selector,obj);</script>
 ```
-###Few Example in Real Life!!! 
+##Few Example in Real Life!!! 
 
 ![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "radio button example")
 
 
 
-###Cross Browser Support:
+##Cross Browser Support:
 
 <table><thead>
 <tr>
@@ -85,7 +86,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 </tbody></table>
 
 
-###For Live Action, Please visit the github page for this project:
+##For Live Action, Please visit the github page for this project:
 
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
