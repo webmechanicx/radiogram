@@ -85,8 +85,8 @@ header h2 {
 }
 
 #container {
-  min-height: 595px;
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  min-height: 895px;
+  background: #e6e6e6 url(../images/highlight-bg.jpg) 50% 0 no-repeat;
 }
 
 .inner {
