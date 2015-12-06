@@ -113,7 +113,7 @@ color: #aaa;
 <div id="plan"><h3>Example:3 Price/Package Chooser in Radiogram</h3></div>
 <script>
 obj =	{
-		name	: "form[fieldname][]", //RSForm RadioGroup - Input Button use to be in this form.
+		name	: "form[fieldname][]", //Input Button use to be in this form.
 		layout	: [ '<div><i class="fa fa-cc-paypal" style="color: #075884;"></i><span></span></div>',
 					'<div><i class="fa fa-cc-stripe" style="color: #16abf0;"></i><span></span></div>',
 					'<div><i class="fa fa-cc-visa" style="color: #f3d709;"></i><span></span></div>'
@@ -125,7 +125,7 @@ Radiogram.build('#doxcy',obj);
 
 //usage#2 Same OBJECT[Layout] but by using selector as a class
 obj =	{
-		name	: "form[fieldname][]", //RSForm RadioGroup - Input Button use to be in this form.
+		name	: "form[fieldname][]", //Input Button use to be in this form.
 		layout	: [ '<div><i class="fa fa-cc-amex" style="color: #34C354;"></i><span></span></div>',
 					'<div><i class="fa fa-cc-mastercard" style="color: #f08216;"></i><span></span></div>',
 					'<div><i class="fa fa-cc-jcb" style="color: #8c8677;"></i><span></span></div>'
@@ -137,7 +137,7 @@ Radiogram.build('.doxcy',obj);
 
 //EXAMPLE2 MALE/FEMALE Radio Group buttons
 obj =	{
-		name	: "form[fieldname2][]", //RSForm RadioGroup - Input Button use to be in this form.
+		name	: "form[fieldname2][]", //Input Button use to be in this form.
 		layout	: [ '<div><i class="icon-user icons" style="color: #ec482e;"></i><span>Male</span></div>',
 					'<div><i class="icon-user-female icons" style="color: #16abf0;"></i><span>Female</span></div>',
 					'<div><i class="icon-people icons" style="color: #f3d709;"></i><span>Others</span></div>'
@@ -146,12 +146,12 @@ obj =	{
 Radiogram.build('#gender',obj);
 
 //EXAMPLE3 Price/Package Chooser in Radiogram
-//Note: while passing block-html/nested nodes-try use blacksplash
+//Note: while passing multiline/nested string of block-html/or text-try use blacksplash at every end of line
 //See the performance difference between "+" and "\" in here (http://jsperf.com/zp-string-concatenation/6)
 //Also visit: https://davidwalsh.name/multiline-javascript-strings
 
 obj =	{
-	name	: "radopt", //RSForm RadioGroup - Input Button use to be in this form.
+	name	: "radopt", //Input Button use to be in this form.
 	layout	: [
 	'<div class="plan">\
 	<h3 class="plan-title">Started</h3>\
