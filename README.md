@@ -2,11 +2,11 @@
 
 ##For Live Action, Please visit the github page:
 
-[![Join the chat at https://gitter.im/webmechanicx/radiogram](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/webmechanicx/radiogram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ###<a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
-<a href="https://gitter.im/webmechanicx/radiogram"><img src="https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667" alt="Gitter" data-canonical-src="https://badges.gitter.im/Join%20Chat.svg" style="max-width:100%;"></a>
+[![Join the chat at https://gitter.im/webmechanicx/radiogram](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/webmechanicx/radiogram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 
 ### Introduction
 
