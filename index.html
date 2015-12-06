@@ -107,7 +107,8 @@ color: #aaa;
 <br />
 
 <div id="gender"><h3>Example:2 Gender Selection with Standard Group Radio Buttons</h3></div>
-<div class="plan"><h3>Example:3 Price/Package Chooser in Radiogram</h3></div>
+<br/>
+<div id="plan"><h3>Example:3 Price/Package Chooser in Radiogram</h3></div>
 <script>
 obj =	{
 		name	: "form[fieldname][]", //RSForm RadioGroup - Input Button use to be in this form.
@@ -143,9 +144,9 @@ obj =	{
 Radiogram.build('#gender',obj);
 
 //EXAMPLE3 Price/Package Chooser in Radiogram
-obj3 =	{
-		name	: "radopt", //RSForm RadioGroup - Input Button use to be in this form.
-		layout	: [ '<div class="plan">
+obj =	{
+	name	: "radopt", //RSForm RadioGroup - Input Button use to be in this form.
+	layout	: [ '<div class="plan">
       <h3 class="plan-title">Started</h3>
       <p class="plan-price">$19 <span class="plan-unit">per month</span></p>
       <ul class="plan-features">
@@ -155,7 +156,7 @@ obj3 =	{
       </ul>
       <a href="#" class="plan-button">Choose Plan</a>
     </div>',
-					'<div class="plan plan-highlight">
+    '<div class="plan plan-highlight">
       <p class="plan-recommended">Recommended</p>
       <h3 class="plan-title">Team</h3>
       <p class="plan-price">$49 <span class="plan-unit">per month</span></p>
@@ -166,7 +167,7 @@ obj3 =	{
       </ul>
       <a href="#" class="plan-button">Choose Plan</a>
     </div>',
-					'<div class="plan">
+   '<div class="plan">
       <h3 class="plan-title">Premium</h3>
       <p class="plan-price">$99 <span class="plan-unit">per month</span></p>
       <ul class="plan-features">
@@ -186,11 +187,10 @@ obj3 =	{
       </ul>
       <a href="#" class="plan-button">Choose Plan</a>
     </div>'
-					]
-		};
+    ]
+  };
 		
-Radiogram.build('.plan',obj3);
-
+Radiogram.build('#plan',obj);
 </script>
 
 <br />
