@@ -31,12 +31,12 @@ obj = {
 ```
 ###Usages: How do you initiate or expose
 
-case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very common style.
+case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very common practice.
 
 case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be unique.
 
 
-### Comfortable with RequireJS | CommonJS | jQuery and others soon
+### Comfortable with RequireJS | CommonJS | jQuery and other soon!!!
 
 #### in AMD (e.g. with requireJS):
 
