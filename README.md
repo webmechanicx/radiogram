@@ -64,7 +64,25 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 
 
 
-###All Browser Supports:
+###Cross Browser Support:
+
+<table><thead>
+<tr>
+<th align="center"><a href="https://camo.githubusercontent.com/082c7772560325405b65f0bd7324b4fe2da8ab3b/687474703a2f2f692e696d6775722e636f6d2f644a43314755762e706e67" target="_blank"><img src="https://camo.githubusercontent.com/082c7772560325405b65f0bd7324b4fe2da8ab3b/687474703a2f2f692e696d6775722e636f6d2f644a43314755762e706e67" alt="Chrome logo" data-canonical-src="http://i.imgur.com/dJC1GUv.png" style="max-width:100%;" height="48px" width="48px"></a></th>
+<th align="center"><a href="https://camo.githubusercontent.com/c68f405f8299cba6be937c04c8c4d01e258cb31f/687474703a2f2f692e696d6775722e636f6d2f6f316d355263512e706e67" target="_blank"><img src="https://camo.githubusercontent.com/c68f405f8299cba6be937c04c8c4d01e258cb31f/687474703a2f2f692e696d6775722e636f6d2f6f316d355263512e706e67" alt="Firefox logo" data-canonical-src="http://i.imgur.com/o1m5RcQ.png" style="max-width:100%;" height="48px" width="48px"></a></th>
+<th align="center"><a href="https://camo.githubusercontent.com/a90336eb5c6930efdade6a5f9a5f575e3bc4f90d/687474703a2f2f692e696d6775722e636f6d2f386833697a35482e706e67" target="_blank"><img src="https://camo.githubusercontent.com/a90336eb5c6930efdade6a5f9a5f575e3bc4f90d/687474703a2f2f692e696d6775722e636f6d2f386833697a35482e706e67" alt="Internet Explorer logo" data-canonical-src="http://i.imgur.com/8h3iz5H.png" style="max-width:100%;" height="48px" width="48px"></a></th>
+<th align="center"><a href="https://camo.githubusercontent.com/da3fb17f8d67861ed830f4d1488dda4040e184df/687474703a2f2f692e696d6775722e636f6d2f695156346e6d4a2e706e67" target="_blank"><img src="https://camo.githubusercontent.com/da3fb17f8d67861ed830f4d1488dda4040e184df/687474703a2f2f692e696d6775722e636f6d2f695156346e6d4a2e706e67" alt="Opera logo" data-canonical-src="http://i.imgur.com/iQV4nmJ.png" style="max-width:100%;" height="48px" width="48px"></a></th>
+<th align="center"><a href="https://camo.githubusercontent.com/369185dbc400565efa476f3830d35ffeb9e7c909/687474703a2f2f692e696d6775722e636f6d2f6a3374674e4b4a2e706e67" target="_blank"><img src="https://camo.githubusercontent.com/369185dbc400565efa476f3830d35ffeb9e7c909/687474703a2f2f692e696d6775722e636f6d2f6a3374674e4b4a2e706e67" alt="Safari logo" data-canonical-src="http://i.imgur.com/j3tgNKJ.png" style="max-width:100%;" height="48px" width="48px"></a></th>
+</tr>
+</thead><tbody>
+<tr>
+<td align="center">43+ ✔</td>
+<td align="center">38+ ✔</td>
+<td align="center">8+ ✔</td>
+<td align="center">32+ ✔</td>
+<td align="center">8+ ✔</td>
+</tr>
+</tbody></table>
 ![alt text](http://s18.postimg.org/cuyig7ko9/cross_browser_compatible.jpg "Radiogram - cross browser javascript library")
 
 ###For Live Demo, Please visit the github page:
