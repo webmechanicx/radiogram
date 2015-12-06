@@ -58,7 +58,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
    <script src="Radiogram.js"></script>
    <script>Radiogram.expose(selector,obj);</script>
 ```
-###Few Examples on Real Life!!! 
+###Few Example in Real Life!!! 
 
 ![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "radio button example")
 
@@ -83,11 +83,14 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 <td align="center">8+ ✔</td>
 </tr>
 </tbody></table>
-![alt text](http://s18.postimg.org/cuyig7ko9/cross_browser_compatible.jpg "Radiogram - cross browser javascript library")
 
-###For Live Demo, Please visit the github page:
+
+###For Live Action, Please visit the github page for this project:
 
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
+
+
+
 
 
 ###The MIT License (<a href="http://opensource.org/licenses/mit-license">MIT</a>)
