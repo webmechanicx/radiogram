@@ -5,7 +5,7 @@
 ###<a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
 [![Join the chat at https://gitter.im/webmechanicx/radiogram](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/webmechanicx/radiogram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 
 ## Introduction
@@ -91,7 +91,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
 
-
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 
 ###The MIT License (<a href="http://opensource.org/licenses/mit-license">MIT</a>)
