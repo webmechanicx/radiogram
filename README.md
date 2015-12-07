@@ -91,11 +91,18 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
 
+
+
+
+
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 
+
+
+
 ###The MIT License (<a href="http://opensource.org/licenses/mit-license">MIT</a>)
-Copyright (c) <2015> <Farhadur Rahim> <webmechanicx@gmail.com>
+Copyright(c) 2015 ***Farhadur Rahim***
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
