@@ -2,11 +2,11 @@
     if (typeof module != 'undefined') module.exports = definition();
     else if (typeof define == 'function' && typeof define.amd == 'object') define(definition);
 	else if (typeof jQuery === 'function') {
-				// jQuery Plugin
-            	return function(name,source) {
+			// jQuery Plugin
+    	return function(name,source) {
                 	jQuery.fn[name] = source;
                 	return;
-            	};
+        };
     }
     else this[name] = definition();
 }('Radiogram', function() {
