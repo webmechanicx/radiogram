@@ -6,7 +6,7 @@
 
 [![Join the chat at https://gitter.im/webmechanicx/radiogram](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/webmechanicx/radiogram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/webmechanicx/radiogram/trend.png)](https://bitdeli.com/free "Bitdeli Badge")[![Build Status](https://semaphoreci.com/api/v1/frahim/radiogram/branches/master/shields_badge.svg)](https://semaphoreci.com/frahim/radiogram)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/webmechanicx/radiogram/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 ## Introduction
 
