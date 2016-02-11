@@ -503,3 +503,6 @@ body {
 
 ul.radiogram li{padding:4px;background-color:transparent;border-radius: 0 0 4px 4px;}
 ul.radiogram li:hover{ background-color:#aaa;}
+
+ul#radiogroup4 li{padding:0;background-color:transparent;}
+ul#radiogroup4 li:hover{border-color:#999;background-color:transparent;}
