@@ -1,7 +1,5 @@
-/* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none
-*/
+/* DEMO gh stylesheet*/
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -505,8 +503,5 @@ ul.radiogram li{padding:4px;background-color:transparent;border-radius: 0 0 4px 
 ul.radiogram li:hover{ background-color:#aaa;}
 
 ul#radiogroup4 li{padding:0;background-color:transparent;}
-ul#radiogroup4 li:hover{border-color:#999;background-color:transparent;}
-
-ul#radiogroup4 li{padding:0;background-color:transparent;}
 ul#radiogroup4 li:hover{background-color:transparent;}
-ul#radiogroup4 li:hover > .plan{border-color:#777;}
+ul#radiogroup4 li:hover > .plan{border-color:#D77D4E;}
