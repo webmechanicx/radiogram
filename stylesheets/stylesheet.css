@@ -1,6 +1,6 @@
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
-   License: none (public domain)
+   License: none
 */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -499,3 +499,6 @@ body {
   background: #37bbe6;
   border-radius: 0 0 4px 4px;
 }
+
+ul.radiogram li{padding:4px;background-color:transparent;}
+ul.radiogram li:hover{ background-color:#aaa;}
