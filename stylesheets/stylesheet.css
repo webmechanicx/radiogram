@@ -499,8 +499,8 @@ body {
   border-radius: 0 0 4px 4px;
 }
 
-ul.radiogram li{padding:4px;background-color:transparent;border-radius: 0 0 4px 4px;}
-ul.radiogram li:hover{ background-color:#aaa;}
+ul.radiogram li{border: 3px solid transparent;border-radius: 4px 4px 4px 4px;}
+ul.radiogram li:hover{ border-color:#fff;}
 
 ul#radiogroup3 li{border:3px solid transparent;padding:10px;background-color:transparent;}
 ul#radiogroup3 li:hover{border-color:#fff;background-color:transparent;}
