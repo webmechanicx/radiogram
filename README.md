@@ -18,12 +18,6 @@ Radiogram is a very small (2kb after mini) JS Utility that designed and written 
 4. Execute for almost any version of the browser.
 5. You can implement CHECK BOX same way by adding yourself as a Contributor...
 
-Radiogram never interferes with other element and style in same page/document and doesn’t even conflict with other radio type’s element.  It generates new radio button on the fly based on your own given structure and style .
-
-What is happening then behind the scene – Just taking two parameters call `selector` that must be unique and another parameter call `object` or `obj or whatever` in an object literal form. This object will contain two types of key – `name:` where value is a string and `layout:` where values defined as an array of strings. Perhaps `Still Freedom is your`.
-
-Draft an idea `(html-block and style)`, Initiate with `Radiogram` and `expose` to `World Wide Web`.
-
 
 ```javascript
 obj = {
