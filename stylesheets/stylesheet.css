@@ -397,6 +397,7 @@ body {
   border: 2px solid #e5ded6;
   border-color: rgba(0, 0, 0, 0.1);
   border-radius: 5px;
+  margin-bottom:0;
 }
 
 .plan-title {
@@ -500,5 +501,5 @@ body {
   border-radius: 0 0 4px 4px;
 }
 
-ul.radiogram li{padding:4px;background-color:transparent;}
+ul.radiogram li{padding:4px;background-color:transparent;border-radius: 0 0 4px 4px;}
 ul.radiogram li:hover{ background-color:#aaa;}
