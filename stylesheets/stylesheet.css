@@ -506,3 +506,7 @@ ul.radiogram li:hover{ background-color:#aaa;}
 
 ul#radiogroup4 li{padding:0;background-color:transparent;}
 ul#radiogroup4 li:hover{border-color:#999;background-color:transparent;}
+
+ul#radiogroup4 li{padding:0;background-color:transparent;}
+ul#radiogroup4 li:hover{background-color:transparent;}
+ul#radiogroup4 li:hover > .plan{border-color:#777;}
