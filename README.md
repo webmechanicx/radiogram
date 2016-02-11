@@ -1,6 +1,6 @@
 ![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "RadiogramJS official logo")
 
-##Expose The Most Stylist Radio Buttons, that never build before:
+##Expose The Most Stylist Radio Buttons:
 
 [![Join the chat at https://gitter.im/webmechanicx/radiogram](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/webmechanicx/radiogram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
