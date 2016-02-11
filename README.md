@@ -1,8 +1,6 @@
 ![alt text](http://s17.postimg.org/5m4ljet7j/logo_radiogram.png "RadiogramJS official logo")
 
-##For Live Action, Please visit the github page:
-
-###<a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
+##Expose The Most Stylist Radio Buttons, that never build before:
 
 [![Join the chat at https://gitter.im/webmechanicx/radiogram](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/webmechanicx/radiogram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
@@ -10,9 +8,17 @@
 
 ## Introduction
 
-Radiogram is a very small UI library (2kb after mini) that designed and written in pure javascript for auto styling native radio button. The only purpose of ~~Radiogram.~~***expose*** a dead simple way to style `Radio Button` ***in minimum afford and time***.
+Radiogram is a very small (2kb after mini) JS Utility that designed and written in pure javascript to expose a custom looks on native radio buttons. ***"DON'T GET MISS UNDERSTOOD"*** because this utility does not work like the traditional style as seem  many over the internet.
 
-Radiogram never interferes with other element and style in same page/document and doesn’t even conflict with other radio type’s element.  It generates new radio button on the fly based on your own given structure and style ***(Freedom always your)***.
+## Advantage:
+1. ***in minimum afford and time*** you get stylist Radio Button using any of your existing system/frameworks/web assets
+2. ***(Freedom always your)*** Pick an idea, load your structure and expose on the fly.
+2. Zero Dependency.
+3. No Complex Configuration. Because it is really really very small utility.
+4. Execute for almost any version of the browser.
+5. You can implement CHECK BOX same way by adding yourself as a Contributor...
+
+Radiogram never interferes with other element and style in same page/document and doesn’t even conflict with other radio type’s element.  It generates new radio button on the fly based on your own given structure and style .
 
 What is happening then behind the scene – Just taking two parameters call `selector` that must be unique and another parameter call `object` or `obj or whatever` in an object literal form. This object will contain two types of key – `name:` where value is a string and `layout:` where values defined as an array of strings. Perhaps `Still Freedom is your`.
 
@@ -102,7 +108,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 
 
 ###The MIT License (<a href="http://opensource.org/licenses/mit-license">MIT</a>)
-Copyright(c) 2015 ***Farhadur Rahim***
+Copyright(c) 2015-2016 ***@webmechanicx - Farhadur Rahim***
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -114,14 +120,4 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
-
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
 
