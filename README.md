@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Radiogram is a very small (2kb after mini) JS Utility that designed and written in pure javascript to expose a custom looks on native radio buttons. ***"DON'T GET MISS UNDERSTOOD"*** because this utility does not work like the traditional style as seem  many over the internet.
+Radiogram is a very small (2kb after mini) JS Utility that designed and written in pure javascript to expose a custom looks for native radio buttons. ***"DON'T GET MISS UNDERSTOOD"*** because this utility does not work like the way traditional frameworks does.
 
 ## Advantage:
 1. ***in minimum afford and time*** you get stylist Radio Button using any of your existing system/frameworks/web assets
@@ -42,22 +42,9 @@ case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very commo
 case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be unique.
 
 
-## Comfortable with RequireJS | CommonJS | jQuery and other soon!!!
+## Checkout <a href="https://github.com/webmechanicx/radiogram/wiki" target="_blank">Wiki Page</a> for detail usages e.g. AMD/requireJS/commonJS
 
-#### in AMD (e.g. with requireJS):
 
-```javascript
-    requirejs(['Radiogram'], function(Radiogram) {
-        Radiogram.expose(selector,obj);
-    });
-```
-
-#### in commonJS (e.g. nodeJS):
-
-```javascript
-    var Radiogram = require('./modules/Radiogram');
-    Radiogram.expose(selector,obj);
-```
 ####Browser globally (e.g. in HTML):
     
 ```javascript
@@ -94,8 +81,6 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 ##For Live Action, Please visit the github page for this project:
 
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
-
-
 
 
 
