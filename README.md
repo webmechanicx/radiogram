@@ -19,7 +19,7 @@ Radiogram is a very small (2kb after mini) JS Utility that designed and written 
 5. You can implement CHECK BOX same way by adding yourself as a Contributor...
 
 
-##Usages: How do you initiate or expose
+##Usages: How can you initiate or expose
 
 **Example**
  
