@@ -56,8 +56,8 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 **Also Live Action:
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
-
-![Radio Button Styles](http://github.me.pn/imagesscreenshots-ui.gif)
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![Radio Button Styles](http://github.me.pn/images/screenshots-ui.gif)](http://webmechanicx.github.io/radiogram/)
 
 
 
