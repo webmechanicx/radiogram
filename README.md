@@ -19,6 +19,13 @@ Radiogram is a very small (2kb after mini) JS Utility that designed and written 
 5. You can implement CHECK BOX same way by adding yourself as a Contributor...
 
 
+##Usages: How do you initiate or expose
+
+**Example**
+ 
+Define the layout which going to expose.
+
+
 ```javascript
 obj = {
 	//attach any valid name common for each radio input button e.g standard or array.
@@ -29,8 +36,6 @@ obj = {
 		  ]
 	};
 ```
-
-##Usages: How do you initiate or expose
 
 case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very common practice.
 
