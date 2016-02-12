@@ -42,10 +42,10 @@ case:1 `Radiogram.expose(Id,obj)` has `passed ID as a selector` its a very commo
 case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be unique.
 
 
-## Checkout <a href="https://github.com/webmechanicx/radiogram/wiki" target="_blank">Wiki Page</a> for detail usages e.g. AMD/requireJS/commonJS
+###Checkout <a href="https://github.com/webmechanicx/radiogram/wiki" target="_blank">Wiki Page</a> for detail usages e.g. AMD/requireJS/commonJS
 
 
-####Browser globally (e.g. in HTML):
+#####Browser globally (e.g. in HTML):
     
 ```javascript
    <script src="Radiogram.js"></script>
