@@ -12,7 +12,7 @@
 ## Introduction
 
 
-Radiogram is a very small (2kb after mini) JS Utility that designed and written in pure javascript to expose a custom looks for native radio buttons. ***"DON'T GET MISS UNDERSTOOD"*** because this utility does not work like the way traditional frameworks does.
+Radiogram is a very small (2kb after mini) JS Utility that designed and written in pure javascript to expose a custom looks for native radio buttons. ***"DON'T GET MISS UNDERSTOOD"*** because this utility does not work like the way traditional framework does.
 
 
 
