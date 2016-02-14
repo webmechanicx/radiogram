@@ -93,15 +93,12 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 </tbody></table>
 
 
+
+
+
 ##For Live Action, Please visit the github page for this project:
 
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
-
-
-
-
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-
 
 
 
