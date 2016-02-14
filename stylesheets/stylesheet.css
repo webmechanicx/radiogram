@@ -500,7 +500,7 @@ body {
 }
 
 ul.radiogram li{border: 3px solid transparent;border-radius: 4px 4px 4px 4px;}
-ul.radiogram li:hover{ border-color:#fff;}
+ul.radiogram li:hover div{ border-color:#fff;}
 
 ul#radiogroup3 li{border:3px solid transparent;padding:10px;background-color:transparent;}
 ul#radiogroup3 li:hover{border-color:#fff;background-color:rgba(255, 255, 255, 0.35);}
