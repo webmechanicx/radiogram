@@ -29,8 +29,6 @@ Radiogram is a very small (2kb after mini) JS Utility that designed and written 
 
 ##Usages: How can you initiate or expose
 
-**Example**
-
 
 #####Browser globally (e.g. in HTML):
     
