@@ -65,7 +65,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 **Also Live Action:
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
-[![Radio Button Styles](http://github.me.pn/images/screenshots-ui.gif)](http://webmechanicx.github.io/radiogram/)
+[!(http://github.me.pn/images/screenshots-ui.gif)](http://webmechanicx.github.io/radiogram/)
 
 
 
@@ -90,14 +90,6 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 <td align="center">8+ ✔</td>
 </tr>
 </tbody></table>
-
-
-
-
-
-##For Live Action, Please visit the github page for this project:
-
-<a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
 
 
