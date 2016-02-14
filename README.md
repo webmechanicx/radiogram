@@ -62,7 +62,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 
 ##Examples in Real Life!!! 
 
-***Also Live Action:
+Live Action:
 <a href="http://webmechanicx.github.io/radiogram/" target="_blank">Live Examples</a>
 
 
