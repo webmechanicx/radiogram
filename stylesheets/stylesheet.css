@@ -506,5 +506,5 @@ ul#radiogroup3 li{border:3px solid transparent;padding:10px;background-color:tra
 ul#radiogroup3 li:hover{border-color:#fff;background-color:transparent;}
 
 ul#radiogroup4 li{padding:0;background-color:transparent;}
-ul#radiogroup4 li:hover{background-color:transparent;}
+ul#radiogroup4 li:hover{background-color:transparent;border-color: transparent;}
 ul#radiogroup4 li:hover > .plan{border-color:#D77D4E;}
