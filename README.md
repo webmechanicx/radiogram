@@ -56,7 +56,7 @@ case:2 `Radiogram.expose(Class,obj)` has `passed CLASS as a selector` must be un
 ```
 ###Few Examples on Real Life!!! 
 
-![alt text](http://s29.postimg.org/pg2cab7vb/screenshots_ui.gif "radio button example")
+![alt text](https://cloud.githubusercontent.com/assets/7023876/13033645/1f912404-d349-11e5-90a8-423f9893ed1b.gif "radio button example")
 
 
 
