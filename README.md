@@ -33,7 +33,7 @@ Radiogram is a very small (2kb after mini) JS Utility that designed and written 
 #####Browser globally (e.g. in HTML):
     
 ```javascript
-   <script src="Radiogram.js"></script>
+   <script src="dist/radiogram.js"></script>
    <script>Radiogram.expose(selector,obj);</script>
 ```
 
